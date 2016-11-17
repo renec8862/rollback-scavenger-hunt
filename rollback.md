@@ -1,2 +1,2 @@
-This is the first line of text.
-This is the second line of text.
+Do you know how to start this Scavenger Hunt?
+No I don't know how to do this Scavenger Hunt.
